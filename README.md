@@ -1,10 +1,7 @@
-# 杨戬学习总结系列
+# 杨戬前端学习路线
 
 ### Vue学习总结系列
-[Vue学习总结之入门Vue(一)](https://github.com/likekk/-Blog/blob/master/VUE/Vue%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%E4%B9%8B%E5%85%A5%E9%97%A8Vue(%E4%B8%80).md)
-### TypeScript学习总结系列
-[TypeScript从入门到放弃(一)](https://github.com/likekk/-Blog/blob/master/TypeScript/typescript%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E4%B8%80).md)
 
-### ES6学习总结系列
-[ES6学习总结之变量的解构赋值(二)](https://github.com/likekk/-Blog/blob/master/ES6/ES6%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%E4%B9%8B%E5%8F%98%E9%87%8F%E7%9A%84%E8%A7%A3%E6%9E%84%E8%B5%8B%E5%80%BC(%E4%BA%8C).md)
-
+[Vue学习总结之入门Vue(一)](https://github.com/likekk/studyBlog/blob/master/VUE/Vue%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%E4%B9%8B%E5%85%A5%E9%97%A8Vue.md)
+[Vue学习总结之Vue的生命周期(二)](https://github.com/likekk/studyBlog/blob/master/VUE/Vue%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%E4%B9%8BVue%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
+[Vue学习总结之搭建vue-cli项目、引入第三方插件](https://github.com/likekk/studyBlog/blob/master/VUE/Vue%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93%E4%B9%8B%E6%90%AD%E5%BB%BAvue-cli%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%95%E5%85%A5%E7%AC%AC%E4%B8%89%E6%96%B9%E6%8F%92%E4%BB%B6.md)
